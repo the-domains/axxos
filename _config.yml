@@ -1,0 +1,28 @@
+name: axxos
+favicon: null
+layout_spectrum: 0.5644856498111039
+typography_spectrum: 0.01282653259113431
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3694330046419054
+  lightness: 0.6078773031476885
+  saturation: 0.6088193075265735
+  rhythmicContrast: 0.962380062090233
+purpose: []
